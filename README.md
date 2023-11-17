@@ -1,7 +1,11 @@
 # telegram_bot_sample
 
 <!--
+
+#field
+
 #groups
+Bot
 
 #languages
 Python
